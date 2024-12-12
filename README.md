@@ -1,4 +1,4 @@
-# Bellande Step Configs
+# Bellande Configs System
 
 ## Configuration System
 - Configs system that stores the Bellande Step configs for all architectures and systems in one place
