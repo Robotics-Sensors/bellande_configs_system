@@ -1,7 +1,7 @@
 # Bellande Configs System
 
 ## Configuration System
-- Configs system that stores the Bellande Step configs for all architectures and systems in one place
+- Configs system that stores the configs for all architectures and systems in one place
 
 
 ## License
