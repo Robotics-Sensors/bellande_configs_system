@@ -1,0 +1,29 @@
+# Copyright (C) 2024 Bellande Robotics Sensors Research Innovation Center, Ronaldson Bellande
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+# 
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+# GNU General Public License v3.0 or later
+
+url: tcp://bellande-ai-computer-vision-research-innovation-center.org
+
+endpoint_path:
+    prediction: /api/Bellande_Computer_Vision_Image/bellande_classification_prediction_input_data
+    face_detection: /api/Bellande_Computer_Vision_Image/bellande_face_detection_input_data
+    object_detection: /api/Bellande_Computer_Vision_Image/bellande_object_detection_input_data
+    instance_segmentation: /api/Bellande_Computer_Vision_Image/bellande_instance_segmentation_input_data
+    sementic_segmentation: /api/Bellande_Computer_Vision_Image/bellande_sementic_segmentation_input_data
+
+connectivity_passcode: 
+    input_passcode: user_input_passcode
+    output_passcpde: device_output_passcode
+
+Bellande_Framework_Access_Key: bellande_web_api_opensource
