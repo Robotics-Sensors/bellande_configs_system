@@ -16,7 +16,7 @@
 url: https://bellande-robotics-sensors-research-innovation-center.org
 
 endpoint_path:
-    input_data: /api/Bellande_Camera/input_data
+    input_data: /api/Bellande_Gps/input_data
 
 connectivity_passcode: 
     input_passcode: user_input_passcode

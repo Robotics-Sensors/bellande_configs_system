@@ -4,7 +4,6 @@
 - https://gitlab.com/Bellande-Robotics-Sensors-Research-Innovation/bellande_configs_system
 - https://bitbucket.org/bellande-robotics-sensors/bellande_configs_system
 
-
 ## Configs System
 - Algorithm & Models API
 - Functionality API
